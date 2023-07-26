@@ -1,0 +1,19 @@
+{
+  "name": "20-linkedin_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index_v1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "puppeteer": "^20.9.0",
+    "puppeteer-core": "^20.9.0",
+    "xlsx": "^0.18.5"
+  }
+}
